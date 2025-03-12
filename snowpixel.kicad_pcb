@@ -20846,7 +20846,7 @@
 			(justify left bottom mirror)
 		)
 	)
-	(gr_text "nora"
+	(gr_text "Nora"
 		(at 126.16 59.81 90)
 		(layer "B.SilkS")
 		(uuid "2292e7e9-ef45-4928-91b8-54966d2dc3c3")
@@ -20896,8 +20896,8 @@
 			(justify left bottom mirror)
 		)
 	)
-	(gr_text "snowpixel"
-		(at 111.7 60.45 90)
+	(gr_text "SnowPixel"
+		(at 111.8 60.5 90)
 		(layer "B.SilkS")
 		(uuid "fccf4e4e-cfd7-4a36-8361-21dfe90c2e60")
 		(effects
