@@ -11,13 +11,11 @@ The leds used are XL-1010RGBC-WS2812B 1x1mm leds.
 
 This project is meant mainly as a test to push the pcb fab's specs to the limit and try a couple 3D printing ideas to obtain a thin, seamless display.
 
-<div style="display: flex; flex-direction: row">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
   <img src="./images/snowpixel_top.png" style="width: 40%; height: auto;" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./images/snowpixel_bottom.png" style="width: 40%; height: auto;" /> 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</div>
+</p>
 
 ## 3D print
 
