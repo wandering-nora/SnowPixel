@@ -19,3 +19,8 @@ This project is meant mainly as a test to push the pcb fab's specs to the limit 
 
 ## 3D print
 
+There are two OpenSCAD models, one is meant as a standalone configuration, the other is meant for using the modules as smd parts on a bigger board.  
+
+Both are meant to be printed in black PET on a white PET film substrate.
+
+There are also two models which can be printed more easily in PLA by doing the first <x> in white PLA and the rest in black.
