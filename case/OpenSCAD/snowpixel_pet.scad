@@ -1,4 +1,4 @@
-grid_size_x = 16; // number of pixels on x
+grid_size_x = 8; // number of pixels on x
 grid_size_y = 16; // number of pixels on y
 
 cell_size = 2.5; // pitch between pixels

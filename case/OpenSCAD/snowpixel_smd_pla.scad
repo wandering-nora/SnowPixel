@@ -47,7 +47,7 @@ module grid() { // make readable code they said...
 diffusion_thickness = 0.25; //diffusion layer thickness, set to first layer height for your nozzle
 
 translate([0,0,-diffusion_thickness])
-color("white") cube([grid_size_x*cell_size+outer_wall_thickness*2 - inner_wall_thickness,grid_size_y*cell_size+outer_wall_thickness*2 - inner_wall_thickness,diffusion_thickness]); //white diffusion layer, 
+color("white") cube([grid_size_y*cell_size+outer_wall_thickness*2 - inner_wall_thickness,grid_size_x*cell_size+outer_wall_thickness*2 - inner_wall_thickness,diffusion_thickness]); //white diffusion layer, 
  
  color([0.9,0.8,1]) difference() { //holes for soldering the module on a different pcb
      grid();
