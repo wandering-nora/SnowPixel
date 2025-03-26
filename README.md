@@ -18,9 +18,15 @@ This project is meant mainly as a test to push the pcb fab's specs to the limit 
 </p>
 
 ## 3D print
+The 3D printed case is what brings the SnowPixel to life, there's a standalone version for generic use and an smd version for when the module is soldered on other pcbs.
 
-There are two OpenSCAD models, one is meant as a standalone configuration, the other is meant for using the modules as smd parts on a bigger board.  
+I'm currently experimenting with two methods for diffusing the light.
 
-Both are meant to be printed in black PET on a white PET film substrate.
+### PET
+These models are meant to be printed with PET (not PETG) on a PET diffusion film substrate.
+This can be done by modifying a little the G-code to add an offset equal to the thickness of the film.
 
-There are also two models which can be printed more easily in PLA by doing the first <x> in white PLA and the rest in black.
+### PLA
+These models are much simpler to print, they can be printed with normal pla (or any other plastic really) and only need the first layer to be printed in white and the rest in black.
+
+The STL folder contains a bunch of common configurations, but the models are fully modular and can be easily edited with the OpenSCAD files.
