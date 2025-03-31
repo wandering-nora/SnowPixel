@@ -28,3 +28,6 @@ This can be done by modifying a little the G-code to add an offset equal to the 
 These models are much simpler to print, they can be printed with normal pla (or any other plastic really) and only need the first layer to be printed in white and the rest in black.
 
 The STL folder contains a bunch of common configurations, but the models are fully modular and can be easily edited with the OpenSCAD files.
+
+
+<img src="./images/snowpixel_case_double.png" style="width: 100%; height: auto;" />
