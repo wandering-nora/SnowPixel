@@ -11,11 +11,9 @@ The leds used are XL-1010RGBC-WS2812B 1x1mm leds.
 
 This project is meant mainly as a test to push the pcb fab's specs to the limit and try a couple 3D printing ideas to obtain a thin, seamless display.
 
-<p align="center">
-  <img src="./images/snowpixel_top.png" style="width: 40%; height: auto;" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./images/snowpixel_bottom.png" style="width: 40%; height: auto;" /> 
-</p>
+
+<img src="./images/snowpixel_double.png" style="width: 100%; height: auto;" />
+
 
 ## 3D print
 The 3D printed case is what brings the SnowPixel to life, there's a standalone version for generic use and an smd version for when the module is soldered on other pcbs.
