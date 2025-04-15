@@ -31,3 +31,8 @@ The STL folder contains a bunch of common configurations, but the models are ful
 
 
 <img src="./images/snowpixel_case_double.png" style="width: 100%; height: auto;" />
+
+## Todo for v1.2
+- [ ] Modify data jumpers for easier operation. (Maybe cuttable traces?)
+- [ ] Change battery connector to a 1A capable one.
+- [ ] Make leds silkscreen thicker.
