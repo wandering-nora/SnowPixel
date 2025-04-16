@@ -1,9 +1,9 @@
 # SnowPixel
 Yet another 8x8 neopixel matrix... But hear me out, this one is a little special ❄️ 
 
-This is a small 20x20x0.8mm module that can be tiled in any shape without any wiring by soldering them together with the castellated holes.
+This is a small 20x20x1.3mm module that can be tiled in any shape without any wiring by soldering them together with the castellated holes.
 
-The built in solder jumpers in the data pads let the user decide whether the module sends and receives the data straight accross or at a 90 degree angle.
+The built in solder jumpers in the data pads let the user decide whether the module sends and receives the data straight accross or at a 90 degree angle making any configuration possible.
 
 The modules are meant to be fitted on a 3D printed grid to create proper 2x2mm square pixels.
 
