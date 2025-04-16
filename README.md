@@ -39,5 +39,4 @@ The boards are otherwise perfectly functional and pretty simple to assemble by h
 
 ## Todo for v1.2
 - [ ] Modify data jumpers for easier operation. (Maybe cuttable traces?)
-- [ ] Change battery connector to a 1A capable one.
 - [ ] Make leds silkscreen thicker.
