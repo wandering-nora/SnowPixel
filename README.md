@@ -32,6 +32,11 @@ The STL folder contains a bunch of common configurations, but the models are ful
 
 <img src="./images/snowpixel_case_double.png" style="width: 100%; height: auto;" />
 
+## Manufacturing update
+Even if quite out of spec for JLCPCB's cheapest offering (namely not paying for castellated holes option) the boards turned out mostly fine!  
+They definitely needed some cleanup as the edges were filled with burs from the castellated holes and the LED silkscreen wasn't printed all the way around.  
+The boards are otherwise perfectly functional and pretty simple to assemble by hand with an hotplate.
+
 ## Todo for v1.2
 - [ ] Modify data jumpers for easier operation. (Maybe cuttable traces?)
 - [ ] Change battery connector to a 1A capable one.
