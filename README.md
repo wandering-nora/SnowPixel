@@ -1,9 +1,9 @@
 # SnowPixel
 Yet another 8x8 neopixel matrix... But hear me out, this one is a little special ❄️ 
 
-This is a small 20x20x0.8mm module that can be tiled in any shape without any wiring by soldering them together with the castellated holes.
+This is a small 20x20x1.3mm module that can be tiled in any shape without any wiring by soldering them together with the castellated holes.
 
-The built in solder jumpers in the data pads let the user decide whether the module sends and receives the data straight accross or at a 90 degree angle.
+The built in solder jumpers in the data pads let the user decide whether the module sends and receives the data straight accross or at a 90 degree angle making any configuration possible.
 
 The modules are meant to be fitted on a 3D printed grid to create proper 2x2mm square pixels.
 
@@ -32,7 +32,11 @@ The STL folder contains a bunch of common configurations, but the models are ful
 
 <img src="./images/snowpixel_case_double.png" style="width: 100%; height: auto;" />
 
+## Manufacturing update
+Even if quite out of spec for JLCPCB's cheapest offering (namely not paying for castellated holes option) the boards turned out mostly fine!  
+They definitely needed some cleanup as the edges were filled with burs from the castellated holes and the LED silkscreen wasn't printed all the way around.  
+The boards are otherwise perfectly functional and pretty simple to assemble by hand with an hotplate.
+
 ## Todo for v1.2
 - [ ] Modify data jumpers for easier operation. (Maybe cuttable traces?)
-- [ ] Change battery connector to a 1A capable one.
 - [ ] Make leds silkscreen thicker.
